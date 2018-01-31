@@ -1,5 +1,5 @@
 {
-  "name": "@simon/husky",
+  "name": "husky-gerrit",
   "version": "0.1.0",
   "description": "Prevents bad commit or push (git hooks, pre-commit/precommit, pre-push/prepush, post-merge/postmerge and all that stuff...)",
   "engines": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/HaitianLiu/si-husky.git"
+    "url": "git://github.com/HaitianLiu/husky-gerrit.git"
   },
   "keywords": [
     "git",
@@ -32,9 +32,9 @@
   "author": "Simon Liu <wantedliu@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/HaitianLiu/si-husky/issues"
+    "url": "https://github.com/HaitianLiu/husky-gerrit/issues"
   },
-  "homepage": "https://github.com/HaitianLiu/si-husky",
+  "homepage": "https://github.com/HaitianLiu/husky-gerrit",
   "devDependencies": {
     "jest": "^20.0.4",
     "mkdirp": "^0.5.1",
